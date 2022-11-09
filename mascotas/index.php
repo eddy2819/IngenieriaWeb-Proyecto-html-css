@@ -25,7 +25,10 @@
 		</nav>
 	</header>
 	<section class="sliderPrincipal">
-		<img src="images/slider.jpg">
+		<img src="images/slider.jpg" >
+		<div class="center">
+			<button class="buttonA button2 button3">Adoptanos</button>
+		</div>
 	</section>
 	<section class="titulo"><h3 class="colorAzul"> Adopcion</h3></section>
 	<section class="adopcion1">
@@ -52,19 +55,39 @@
 		</article>
 	</section>
 	<section class="doctor">
-		<h3>Doctores</h3>
+		<div class= "doctor1">
+			<img src="images/doct1.png" >
+			<h2 class="d1">Dr.Jaime Cordova</h2>
+			<p class="dr1">Especialista canino</p>
+		</div>
+		<div class="doctor1">
+			<img src="images/doct2.png" >
+			<h2 class="d2">Dr. Fabricio Acosta</h2>
+			<p class="dr2">Especialista canino</p>
+		</div>
+		<div class="doctor1">
+			<img src="images/doct3.png">
+			<h2 class= "d3">Dra. Valentina Guzman</h2>
+			<p class="dr3">Especialista canino</p>
+		</div>
+		<div class="doctor1">
+			<img src="images/doct4.png">
+			<h2 class="d4">Dra. Allison Orellana</h2>
+			<p class="dr4">Especialista canino</p>
+		</div>
 	</section>
 	<section class="sponsor">
-		<h3>Sponsor</h3>
+		<h3></h3>
 	</section>
 	<footer class="piePagina">
 		<section class="derechos">
 			<h6>Derechos Reservados UTPL 2022</h6>
+			<img src="images/utpl.png" alt="">
 		</section>
 		<nav class="redesSociales">
-			<a href=""><i class="fa-brands fa-facebook"></i></a>
-			<a href=""><i class="fa-brands fa-instagram"></i></a>
-			<a href=""><i class="fa-brands fa-tiktok"></i></a>
+			<a href="https://www.facebook.com/utpl.loja/"><i class="fa-brands fa-facebook"></i></a>
+			<a href="https://www.instagram.com/utpl/?hl=es-la"><i class="fa-brands fa-instagram"></i></a>
+			<a href="https://www.tiktok.com/@utpl.ec"><i class="fa-brands fa-tiktok"></i></a>
 		</nav>
 	</footer>
 </div>
