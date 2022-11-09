@@ -17,15 +17,24 @@
 		<section class="logotipo"><img src="../images/logotipoPet.png"></section>
 		<nav class="menuPrincipal">
 			<a href="../">Inicio</a>
-			<a href="#">Servicios</a>
+			<a href="servicios.php">Servicios</a>
 			<a href="#">Productos</a>
-			<a href="#">Adopción</a>
+			<a href="adopcion.php">Adopción</a>
 			<a href="#">Contactos</a>
 		</nav>
 	</header>
 	<main>
 		<h2>Servicios del Municipio de Loja</h2>
-		<p>Snares are silent killers laid by poachers across wild places to trap and kill animals for the illegal bushmeat tradeSnares are silent killers laid by poachers across wild places to trap and kill animals for the illegal bushmeat tradeSnares are silent killers laid by poachers across wild places to trap and kill animals for the illegal bushmeat tradeSnares are silent killers laid by poachers across wild places to trap and kill animals for the illegal bushmeat tradeSnares are silent killers laid by poachers across wild places to trap and kill animals for the illegal bushmeat tradeSnares are silent killers laid by poachers across wild places to trap and kill animals for the illegal bushmeat tradeSnares are silent killers laid by poachers across wild places to trap and kill animals for the illegal bushmeat tradeSnares are silent killers laid by poachers across wild places to trap and kill animals for the illegal bushmeat trade</p>
+		<p>Snares are silent killers laid by poachers across wild places to trap and kill animals
+		 for the illegal bushmeat tradeSnares are silent killers laid by poachers across wild places 
+		 to trap and kill animals for the illegal bushmeat tradeSnares are silent killers laid by poachers
+		  across wild places to trap and kill animals for the illegal bushmeat tradeSnares are silent killers 
+		  laid by poachers across wild places to trap and kill animals for the illegal bushmeat tradeSnares 
+		  are silent killers laid by poachers across wild places to trap and kill animals for the illegal 
+		  bushmeat tradeSnares are silent killers laid by poachers across wild places to trap and kill animals 
+		  for the illegal bushmeat tradeSnares are silent killers laid by poachers across wild places to trap and 
+		  kill animals for the illegal bushmeat tradeSnares are silent killers laid by poachers across wild places to 
+		  trap and kill animals for the illegal bushmeat trade</p>
 	</main>
 	<section class="sponsor">
 		<h3>Sponsor</h3>

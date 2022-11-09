@@ -200,6 +200,39 @@ body{
 	padding: 0 10px;
 	text-decoration: none;
 }
+
+main{
+	grid-area: slider;
+	margin: 0 auto;
+	width: 90%;
+	padding: 2em 0;
+}
+main h2{
+	color: #817E9F;
+	font-size: 2em;
+}
+main p{
+	color: #605B5B;
+	font-size: 1em;
+	line-height: 28px;
+}
+/*--------------------------------------------------*/
+/*           formularios                            */
+/*--------------------------------------------------*/
+ main .grupoinput{
+	padding: 0.5em 0;
+}
+.grupoinput label{
+	display: block;
+	font-size: 1em;
+}
+.grupoinput input[type=text], .grupoinput input[type=email], .grupoinput input[type=number], .grupoinput input[type=date]{
+	width: 90%;
+	padding: 15px 20px;
+	border-radius: 4px;
+	border: 1px solid;
+	
+}
 /*--------------------------------------------------*/
 /*           personalizados                         */
 /*--------------------------------------------------*/
@@ -215,6 +248,9 @@ body{
 }
 .espacio{
 	padding: 2em 0;
+}
+.rojo{
+	color: red;
 }
 
 /*--------------------------------------------------*/
@@ -235,7 +271,10 @@ body{
   cursor: pointer;
   border-radius: 9px;
 }
-
+.button:hover{
+	background-color: #3c8f40;
+	color: white;
+}
 .button1 {
   background-color: #D7F171; 
   color: #494949;
