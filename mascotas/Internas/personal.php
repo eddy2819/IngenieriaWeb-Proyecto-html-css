@@ -20,22 +20,18 @@
 			<a href="servicios.php">Servicios</a>
 			<a href="#">Productos</a>
 			<a href="adopcion.php">Adopción</a>
-			<a href="#">Contactos</a>
+			<a href="#">Personal</a>
 		</nav>
 	</header>
 	<main>
-		<h2>Servicios del Municipio de Loja</h2>
-		<img src="..//images/ml.png" title="municio de Loja">
-		<p>Snares are silent killers laid by poachers across wild places to trap and kill animals
-		 for the illegal bushmeat tradeSnares are silent killers laid by poachers across wild places 
-		 to trap and kill animals for the illegal bushmeat tradeSnares are silent killers laid by poachers
-		  across wild places to trap and kill animals for the illegal bushmeat tradeSnares are silent killers 
-		  laid by poachers across wild places to trap and kill animals for the illegal bushmeat tradeSnares 
-		  are silent killers laid by poachers across wild places to trap and kill animals for the illegal 
-		  bushmeat tradeSnares are silent killers laid by poachers across wild places to trap and kill animals 
-		  for the illegal bushmeat tradeSnares are silent killers laid by poachers across wild places to trap and 
-		  kill animals for the illegal bushmeat tradeSnares are silent killers laid by poachers across wild places to 
-		  trap and kill animals for the illegal bushmeat trade</p>
+		<h2>Listado del personal</h2>
+        <?php
+            include("../dl/config.php");
+            include("../dl/class_mysqli.php");
+            $miconexion=new class_mysqli();
+            $miconexion->conectar(DBHOST,DBUSER,DBPASS,DBNAME);
+      
+        ?>
 	</main>
 	<section class="sponsor">
 		<h3>Sponsor</h3>
@@ -48,7 +44,7 @@
 			<a href=""><i class="fa-brands fa-facebook"></i></a>
 			<a href=""><i class="fa-brands fa-instagram"></i></a>
 			<a href=""><i class="fa-brands fa-tiktok"></i></a>
-			<a href="https://twitter.com/utpl"><i class="fa-brands fa-twitter"></i></a>
+            <a href="https://twitter.com/utpl"><i class="fa-brands fa-twitter"></i></a>
 
 		</nav>
 	</footer>

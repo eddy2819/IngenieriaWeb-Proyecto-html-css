@@ -68,6 +68,8 @@
 			<a href=""><i class="fa-brands fa-facebook"></i></a>
 			<a href=""><i class="fa-brands fa-instagram"></i></a>
 			<a href=""><i class="fa-brands fa-tiktok"></i></a>
+            <a href="https://twitter.com/utpl"><i class="fa-brands fa-twitter"></i></a>
+
 		</nav>
 	</footer>
 </div>

@@ -19,9 +19,10 @@
 		<nav class="menuPrincipal">
 			<a href="#">Inicio</a>
 			<a href="Internas/servicios.php">Servicios</a>
+			<a href="#">Borrar Personal</a>
 			<a href="#">Productos</a>
 			<a href="#">Adopción</a>
-			<a href="#">Contactos</a>
+			<a href="internas/personal.php">Personal</a>
 		</nav>
 	</header>
 	<section class="sliderPrincipal">
@@ -88,6 +89,7 @@
 			<a href="https://www.facebook.com/utpl.loja/"><i class="fa-brands fa-facebook"></i></a>
 			<a href="https://www.instagram.com/utpl/?hl=es-la"><i class="fa-brands fa-instagram"></i></a>
 			<a href="https://www.tiktok.com/@utpl.ec"><i class="fa-brands fa-tiktok"></i></a>
+			<a href="https://twitter.com/utpl"><i class="fa-brands fa-twitter"></i></a>
 		</nav>
 	</footer>
 </div>
